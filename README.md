@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **double degree exchange program in France to become Computer Engineer.**
 
-- 📚 I’m currently learning **Python, Machine Learning and Operations Research.**
+- 📚 I’m currently learning **Python, Machine Learning and Deep Learning.**
 
 - 💬 Ask me about **Data Science and Python**
 
