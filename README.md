@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **Python, Machine Learning and Deep Learning.**
 
-- 💬 Ask me about **Data Science and Python**
+- 💬 Ask me about **Data Science, Artificial Intelligence and Python**
 
 - 📫 How to reach me **clmedeiros39@gmail.com**
 
