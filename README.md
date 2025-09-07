@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Célio Medeiros</h1>
-<h3 align="center">A Computer and Industrial Engineering student passionate for Data Science from Brazil.</h3>
+<h3 align="center">A Computer and Industrial Engineer passionate for Data Science and AI from Brazil.</h3>
 
-- 🔭 I’m currently working on a **double degree exchange program in France to become Computer Engineer.**
+- 🔭 I’m currently working as a **AI/ML Engineer.**
 
-- 📚 I’m currently learning **Python, Machine Learning and Deep Learning.**
+- 📚 I’m continouasly learning **Programming, AI and Optimization.**
 
 - 💬 Ask me about **Data Science, Artificial Intelligence and Python**
 
