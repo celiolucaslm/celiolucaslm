@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **AI/ML Engineer.**
 
-- 📚 I’m continouasly learning **Programming, AI and Optimization.**
+- 📚 I’m continuously learning **Programming, AI and Optimization.**
 
 - 💬 Ask me about **Data Science, Artificial Intelligence and Python**
 
