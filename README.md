@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Célio Medeiros</h1>
 <h3 align="center">A Computer and Industrial Engineer passionate for Data Science and AI from Brazil.</h3>
 
-- 🔭 I’m currently working as an **AI/ML Engineer.**
+- 🔭 I’m currently working as a **Data Scientist.**
 
 - 📚 I’m continuously learning **Programming, AI and Optimization.**
 
