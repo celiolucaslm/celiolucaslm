@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Célio Medeiros</h1>
-<h3 align="center">A Computer and Industrial Engineer passionate for Data Science and AI from Brazil.</h3>
+<h3 align="center">A Computer and Industrial Engineer passionate for Data Science from Brazil.</h3>
 
 - 🔭 I’m currently working as a **Data Scientist.**
 
 - 📚 I’m continuously learning **Programming, AI and Optimization.**
 
-- 💬 Ask me about **Data Science, Artificial Intelligence and Python**
+- 💬 Ask me about **Data Science, Mathematical Optimization, Artificial Intelligence and Python**
 
 - 📫 How to reach me **clmedeiros39@gmail.com**
 
